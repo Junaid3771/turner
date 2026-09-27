@@ -1,0 +1,16 @@
+# Vercel / local runtime
+.vercel/
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / package manager caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# Logs
+*.log
